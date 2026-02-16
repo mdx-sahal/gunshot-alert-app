@@ -1,0 +1,8 @@
+flask
+tensorflow
+numpy
+librosa
+scikit-learn
+seaborn
+matplotlib
+flask-cors
