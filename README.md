@@ -50,7 +50,7 @@ This project uses a 1D Convolutional Neural Network (CNN) trained on extracted a
 
 ## 🧪 Testing Setup
 
-Currently uses mock alert data to simulate model outputs while the system is being integrated with the backend.
+Currently uses mock alert data to simulate map locations.Uploads .wav audio files to detect whether it is gunshot or not.
 
 ## 🙏 Acknowledgements
 
